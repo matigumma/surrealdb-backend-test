@@ -2,6 +2,9 @@
 
 This is my little contribution testing SurrealDb.js 0.5.0 for NodeJS
 
+  ![Screen](git-assets/screen.png)
+
+
 ## What im using here?
 
 Typescript
